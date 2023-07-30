@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project explores the use of non-linear equations in robotics/animation applications, focusing on inverse kinematic problems. Inverse kinematics involves determining the joint orientations in terms of angles that satisfy a given set of constraints, such as positioning the end-effector (tip of the manipulator) at a specific position. This problem often requires numerical solutions, and in this project, we evaluate Newton's and Broyden's methods for solving non-linear systems of equations in inverse kinematic applications.
+This project explores the use of non-linear equations in robotics applications, focusing on inverse kinematic problems. Inverse kinematics involves determining the joint orientations in terms of angles that satisfy a given set of constraints, such as positioning the end-effector (tip of the manipulator) at a specific position. This problem often requires numerical solutions, and in this project, we evaluate Newton's and Broyden's methods for solving non-linear systems of equations in inverse kinematic applications.
 
 ## Objective
 
