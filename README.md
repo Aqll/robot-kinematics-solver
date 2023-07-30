@@ -1,4 +1,4 @@
-# Robotics/Animation Non-Linear Equations Solver
+# Robotics Non-Linear Equations Solver with Visualization
 
 ## Overview
 
@@ -39,8 +39,8 @@ This project requires [MATLAB](https://www.mathworks.com/products/matlab.html) t
 To get started with this project, simply clone the repository and run the provided MATLAB scripts.
 
 ```bash
-git clone https://github.com/your-username/robotics-kinematics-animation.git
-cd robotics-kinematics-animation
+git clone https://github.com/your-username/robot-kinematics-solver.git
+cd robot-kinematics-solver
 matlab
 ```
 ---
