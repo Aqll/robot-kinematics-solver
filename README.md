@@ -39,8 +39,10 @@ This project requires [MATLAB](https://www.mathworks.com/products/matlab.html) t
 To get started with this project, simply clone the repository and run the provided MATLAB scripts.
 
 ```bash
-git clone https://github.com/your-username/robotics-animation-nonlinear.git
-cd robotics-animation-nonlinear
+git clone https://github.com/your-username/robotics-kinematics-animation.git
+cd robotics-kinematics-animation
 matlab
-
+```
+---
+Remember to replace `your-username` with your actual GitHub username.
 
