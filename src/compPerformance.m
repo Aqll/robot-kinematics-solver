@@ -1,4 +1,4 @@
-% 4a. It seems that Newtons's method converges faster than Broyden's method
+% It seems that Newtons's method converges faster than Broyden's method
 % However, Broyden's method may have better performance since we don't need
 % the gradient for the jacobian matrix while looping.
 
